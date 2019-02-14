@@ -15,11 +15,11 @@
 ## VQG
 Latest papers: 
 
-- Multimodal Differential Network for Visual Question Generation. \[Paper\](http://aclweb.org/anthology/D18-1434)\[Projrct Link\](https://badripatro.github.io/MDN-VQG/)
-- Asking the Difficult Questions: Goal-Oriented Visual Question Generation via Intermediate Rewards. \[Paper\](https://arxiv.org/abs/1711.07614)
-- Visual Question Generation as Dual Task of Visual Question Answering \[Paper\](https://arxiv.org/abs/1709.07192)
+- Multimodal Differential Network for Visual Question Generation. ![Paper](http://aclweb.org/anthology/D18-1434)\[Projrct Link\](https://badripatro.github.io/MDN-VQG/)
+- Asking the Difficult Questions: Goal-Oriented Visual Question Generation via Intermediate Rewards. ![Paper](https://arxiv.org/abs/1711.07614)
+- Visual Question Generation as Dual Task of Visual Question Answering ![Paper](https://arxiv.org/abs/1709.07192)
 
-- Jain, Unnat, Ziyu Zhang, and Alexander Schwing. "Creativity: Generating Diverse Questions using Variational Autoencoders." \[Paper\](arXiv preprint arXiv:1704.03493 (2017)).
+- Jain, Unnat, Ziyu Zhang, and Alexander Schwing. "Creativity: Generating Diverse Questions using Variational Autoencoders." ![Paper](arXiv preprint arXiv:1704.03493 (2017)).
 
 - Mostafazadeh, N., Brockett, C., Dolan, B., Galley, M., Gao, J., Spithourakis, G. P., & Vanderwende, L. (2017). Image-grounded conversations: Multimodal context for natural question and response generation. \[Paper\](arXiv preprint arXiv:1701.08251).
 
