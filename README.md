@@ -2,9 +2,9 @@
 
 
 ### VQG
-- Multimodal Differential Network for Visual Question Generation. \[Paper\](http://aclweb.org/anthology/D18-1434)\[Projrct Link\](https://badripatro.github.io/MDN-VQG/)
-- Asking the Difficult Questions: Goal-Oriented Visual Question Generation via Intermediate Rewards. \[Paper\](https://arxiv.org/abs/1711.07614)
-- Visual Question Generation as Dual Task of Visual Question Answering \[Paper\](https://arxiv.org/abs/1709.07192)
+- Multimodal Differential Network for Visual Question Generation. \[Paper\](http://aclweb.org/anthology/D18-1434)\[Projrct Link\] (https://badripatro.github.io/MDN-VQG/)
+- Asking the Difficult Questions: Goal-Oriented Visual Question Generation via Intermediate Rewards. \[Paper\]  (https://arxiv.org/abs/1711.07614)
+- Visual Question Generation as Dual Task of Visual Question Answering \[Paper\] (https://arxiv.org/abs/1709.07192)
 - Mostafazadeh, N., Misra, I., Devlin, J., Mitchell, M., He, X., & Vanderwende, L. (2016). Generating natural questions about an image.\[Paper\]( arXiv preprint arXiv:1603.06059.)
 
 - Zhang, S., Qu, L., You, S., Yang, Z., & Zhang, J. (2016). Automatic Generation of Grounded Visual Questions. \[Paper\] (arXiv preprint arXiv:1612.06530)..
