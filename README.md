@@ -15,7 +15,7 @@
 ## VQG
 Latest papers: 
 
-- Multimodal Differential Network for Visual Question Generation. ![Paper](http://aclweb.org/anthology/D18-1434)\[Projrct Link\](https://badripatro.github.io/MDN-VQG/)
+- Multimodal Differential Network for Visual Question Generation. ![Paper](http://aclweb.org/anthology/D18-1434)[Projrct Link]https://badripatro.github.io/MDN-VQG/
 - Asking the Difficult Questions: Goal-Oriented Visual Question Generation via Intermediate Rewards. ![Paper](https://arxiv.org/abs/1711.07614)
 - Visual Question Generation as Dual Task of Visual Question Answering ![Paper](https://arxiv.org/abs/1709.07192)
 
