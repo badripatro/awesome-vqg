@@ -24,10 +24,10 @@ Give an image, the task is to generate natural Question based on the image.
 
 - Jain, Unnat, Ziyu Zhang, and Alexander Schwing. "Creativity: Generating Diverse Questions using Variational Autoencoders." [[Paper](https://arxiv.org/abs/1704.03493)].
 
-- Mostafazadeh, N., Brockett, C., Dolan, B., Galley, M., Gao, J., Spithourakis, G. P., & Vanderwende, L. (2017). Image-grounded conversations: Multimodal context for natural question and response generation. [[Paper](arXiv preprint arXiv:1701.08251)].
+- Mostafazadeh, N., Brockett, C., Dolan, B., Galley, M., Gao, J., Spithourakis, G. P., & Vanderwende, L. Image-grounded conversations: Multimodal context for natural question and response generation. [[Paper](https://arxiv.org/abs/1701.08251)].
 
 
-- Zhang, S., Qu, L., You, S., Yang, Z., & Zhang, J. (2016). Automatic Generation of Grounded Visual Questions. [[Paper] (https://arxiv.org/abs/1612.06530)]
+- Zhang, S., Qu, L., You, S., Yang, Z., & Zhang, J. (2016). Automatic Generation of Grounded Visual Questions. [[Paper](https://arxiv.org/abs/1612.06530)]
 
 - Mostafazadeh, N., Misra, I., Devlin, J., Mitchell, M., He, X., & Vanderwende, L. (2016). Generating natural questions about an image.[[Paper](https://arxiv.org/abs/1603.06059)]
 
