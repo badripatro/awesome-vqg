@@ -56,7 +56,7 @@ Give an image, the task is to generate natural Question based on the image.
 
 - [Learning to Ask: Neural Question Generation for Reading Comprehension](https://arxiv.org/abs/1705.00106), -Xinya et al. **ACL 2017**
 
-- [Creativity: Generating Diverse Questions using Variational Autoencoders.] (https://arxiv.org/abs/1704.03493) -Jain et al, **CVPR 2017**.
+- [Creativity: Generating Diverse Questions using Variational Autoencoders.](https://arxiv.org/abs/1704.03493) -Jain et al, **CVPR 2017**.
 
 - [Image-grounded conversations: Multimodal context for natural question and response generation.](https://arxiv.org/abs/1701.08251). -Mostafazadeh et al,**IJCNLP 2017**
 
