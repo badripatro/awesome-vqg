@@ -20,27 +20,27 @@ Give an image, the task is to generate natural Question based on the image.
 - [Paper Name](link) - Author 1 et al, **Conference Year**. [[code]](link)
 
 
-###Year 2020 papers: 
+### Year 2020 papers: 
 
- -[Visual Question Generation from Radiology Images](https://www.aclweb.org/anthology/2020.alvr-1.3/) -Sarrouti et al, **ALVR workshop 2020**
+ - [Visual Question Generation from Radiology Images](https://www.aclweb.org/anthology/2020.alvr-1.3/) -Sarrouti et al, **ALVR workshop 2020**
  
- -[Deep Bayesian Network for Visual Question Generation](https://openaccess.thecvf.com/content_WACV_2020/html/Patro_Deep_Bayesian_Network_for_Visual_Question_Generation_WACV_2020_paper.html) -Patro et al, **WACV 2020**. [[Project Page](https://delta-lab-iitk.github.io/BVQG/)]
+ - [Deep Bayesian Network for Visual Question Generation](https://openaccess.thecvf.com/content_WACV_2020/html/Patro_Deep_Bayesian_Network_for_Visual_Question_Generation_WACV_2020_paper.html) -Patro et al, **WACV 2020**. [[Project Page](https://delta-lab-iitk.github.io/BVQG/)]
  
- -[Learning to Generate Diverse Questions from Keywords](https://ieeexplore.ieee.org/abstract/document/9053822) -Pen et al, **ICASSP 2020**
+ - [Learning to Generate Diverse Questions from Keywords](https://ieeexplore.ieee.org/abstract/document/9053822) -Pen et al, **ICASSP 2020**
  
--[C3VQG: Category Consistent Cyclic Visual Question Generation](https://arxiv.org/abs/2005.07771) -Uppal et al, **Arxiv  2020**
+- [C3VQG: Category Consistent Cyclic Visual Question Generation](https://arxiv.org/abs/2005.07771) -Uppal et al, **Arxiv  2020**
 
 
-###Year 2019 papers: 
+### Year 2019 papers: 
 
--[Information Maximizing Visual Question Generation](https://openaccess.thecvf.com/content_CVPR_2019/html/Krishna_Information_Maximizing_Visual_Question_Generation_CVPR_2019_paper.html) - Krishna et al, **CVPR 2019*. [[code](https://github.com/ranjaykrishna/iq)]
+- [Information Maximizing Visual Question Generation](https://openaccess.thecvf.com/content_CVPR_2019/html/Krishna_Information_Maximizing_Visual_Question_Generation_CVPR_2019_paper.html) - Krishna et al, **CVPR 2019*. [[code](https://github.com/ranjaykrishna/iq)]
 
--[Improving Neural Question Generation Using Answer Separation](https://www.aaai.org/ojs/index.php/AAAI/article/view/4629) -Kim et al, **AAAI 2019**
+- [Improving Neural Question Generation Using Answer Separation](https://www.aaai.org/ojs/index.php/AAAI/article/view/4629) -Kim et al, **AAAI 2019**
 
--[Visual Question Generation: The State of the Art](https://dl.acm.org/doi/abs/10.1145/3383465) -Patil et al, **ACM Computing Survey 2019** 
+- [Visual Question Generation: The State of the Art](https://dl.acm.org/doi/abs/10.1145/3383465) -Patil et al, **ACM Computing Survey 2019** 
 
 
--[Joint Learning of Question Answering and Question Generation](https://ieeexplore.ieee.org/abstract/document/8636251) -Sun et al, **Transactions on Knowledge and Data Engineering 2019** 
+- [Joint Learning of Question Answering and Question Generation](https://ieeexplore.ieee.org/abstract/document/8636251) -Sun et al, **Transactions on Knowledge and Data Engineering 2019** 
 
 ###Year 2018 papers: 
 
@@ -54,7 +54,7 @@ Give an image, the task is to generate natural Question based on the image.
 - [Automatic Generation of Grounded Visual Questions.](https://www.ijcai.org/Proceedings/2017/0592.pdf) - Zhang et al,  **IJCAI 2017**.
 
 
--[Learning to Ask: Neural Question Generation for Reading Comprehension](https://arxiv.org/abs/1705.00106), -Xinya et al. **ACL 2017**
+- [Learning to Ask: Neural Question Generation for Reading Comprehension](https://arxiv.org/abs/1705.00106), -Xinya et al. **ACL 2017**
 
 - [Creativity: Generating Diverse Questions using Variational Autoencoders.] (https://arxiv.org/abs/1704.03493) -Jain et al, **CVPR 2017**.
 
